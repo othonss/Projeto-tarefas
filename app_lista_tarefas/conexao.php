@@ -7,7 +7,7 @@
 
         public function conectar(){
             try{
-                $conexao = PDO(
+                $conexao = new PDO(
                     "mysql:host=$this->host;dbname=$this->dbname",
                     "$this->user",
                     "$this->pass"
