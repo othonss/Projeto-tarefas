@@ -35,11 +35,11 @@
 							<div class="col">
 								<h4>Nova tarefa</h4>
 								<hr />
-
-								<form>
+								<!-- Alteração necessária enviar os dados para a super global $_POST-->
+								<form method="post" action="tarefa_controller.php">
 									<div class="form-group">
 										<label>Descrição da tarefa:</label>
-										<input type="text" class="form-control" placeholder="Exemplo: Lavar o carro">
+										<input type="text" class="form-control" placeholder="Exemplo: Lavar o carro" name="tarefa">
 									</div>
 
 									<button class="btn btn-success">Cadastrar</button>
