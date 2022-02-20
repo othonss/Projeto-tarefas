@@ -24,6 +24,9 @@
         //Ao inserir um novo registro, redirecionar o usuário de volta a página de nova tarefa
         header('Location: nova_tarefa.php?inclusao=1');
     }else if($acao == 'recuperar'){
-        echo 'Chegamos até aqui';
+        $tarefa = new Tarefa();
+        $conexao = new Conexao();
+        $tarefaService = new TarefaService($conexao, $tarefa);
+        $tarefas = $tarefaService->recuperar();
     }
 ?>
