@@ -21,7 +21,7 @@ O app possibilita adicionar, atualizar e remover tarefas, criando assim uma list
 <img src="layout/tela_todas_tarefas.png" width="800"/>
 
 ## Tecnologias utilizadas
-<p>Linguagens e padrões que foram utilizadas para desenvolver o app.</p>
+<p>Linguagens e padrões que foram utilizados para desenvolver o app.</p>
 
 ## Front-end
 - HTML / CSS / JS
