@@ -2,7 +2,7 @@
 
 ## Sobre o App Lista Tarefas
 <p>
-  É uma app web desenvolvido no período em que estava realizando o curso <strong>Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos</strong> criado por 
+  É um app web desenvolvido no período em que estava realizando o curso <strong>Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos</strong> criado por 
   Jorge Sant Ana e Jamilton Damasceno na Udemy. 
 </p>
 <p>
@@ -21,7 +21,7 @@ O app possibilita adicionar, atualizar e remover tarefas, criando assim uma list
 <img src="layout/tela_todas_tarefas.png" width="800"/>
 
 ## Tecnologias utilizadas
-<p>Linguagens e padrões que foram utilizados para desenvolver o app.</p>
+<p>Linguagens e padrões que foram utilizados para desenvolver o app</p>
 
 ## Front-end
 - HTML / CSS / JS
@@ -29,7 +29,7 @@ O app possibilita adicionar, atualizar e remover tarefas, criando assim uma list
 
 ### Back-end
 - PHP
-- MySQL
+- Banco de dados MySQL
 
 ### Competências 
 - Programação orientadas a objetos
